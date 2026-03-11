@@ -1,1 +1,1 @@
-web: gunicorn medico.wsgi
+web: gunicorn cc.wsgi
